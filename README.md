@@ -6,10 +6,12 @@ This report presents the final comparison between the baseline and robust enhanc
 
 ## Results
 
-| Model               | Valid Syntax Rate | Mean IOU     | Max IOU       | Improvement                  |
-| ------------------- | ----------------- | ------------ | ------------- | ---------------------------- |
-| **Baseline**        | 1.000 (100%)      | 0.034 (3.4%) | 0.034 (3.4%)  | -                            |
-| **Robust Enhanced** | 1.000 (100%)      | 0.045 (4.5%) | 0.207 (20.7%) | **+32.4% mean, +508.8% max** |
+| Model        | Valid Syntax Rate | Mean IOU     | Max IOU       | Improvement                  |
+| ------------ | ----------------- | ------------ | ------------- | ---------------------------- |
+| **Baseline** | 1.000 (100%)      | 0.034 (3.4%) | 0.034 (3.4%)  | -                            |
+| **Enhanced** | 1.000 (100%)      | 0.045 (4.5%) | 0.207 (20.7%) | **+32.4% mean, +508.8% max** |
+
+![Final Enhanced Model Comparison](final_enhanced_comparison.png)
 
 ## Key Achievements
 
