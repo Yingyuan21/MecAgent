@@ -126,8 +126,6 @@ This represents a substantial advancement in automated CAD code generation from 
   - **First-mover AI CAD Copilot** with tangible productivity gains.
   - Positioned as _faster, smarter, and easier_ compared to traditional workflows.
 
----
-
 ## 2. Target Audience & Segmentation
 
 - **Primary segments**
@@ -138,8 +136,6 @@ This represents a substantial advancement in automated CAD code generation from 
 - **Early adopters**
   - Innovative R&D departments.
   - Engineering schools eager to expose students to cutting-edge AI/CAD tools.
-
----
 
 ## 3. Market Access Strategy
 
@@ -164,8 +160,6 @@ This represents a substantial advancement in automated CAD code generation from 
 - **Chinese-language version** of software and onboarding materials.
 - Build a **WeChat Official Account** and **Bilibili video channel** for educational/demo content.
 - Publish bilingual technical blogs & case studies to bridge global + Chinese audiences.
-
----
 
 ## 4. Go-to-Market (GTM) Tactics
 
