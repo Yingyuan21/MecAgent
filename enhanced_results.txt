@@ -1,0 +1,8 @@
+Robust Enhanced Model Results
+=============================
+Valid Syntax Rate: 1.000
+Mean IOU: 0.045
+Max IOU: 0.207
+Min IOU: 0.000
+Std IOU: 0.036
+Successful IOU calculations: 50/50
